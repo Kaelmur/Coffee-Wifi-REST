@@ -1,0 +1,11 @@
+.jumbotron {
+  align-items: center;
+  color: white;
+  background-color: #333;
+}
+body {
+    background-color: #333;
+}
+.table {
+    margin-top: 20px;
+}
