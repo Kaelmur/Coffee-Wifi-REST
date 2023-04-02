@@ -9,3 +9,7 @@ body {
 .table {
     margin-top: 20px;
 }
+.add {
+    background-color: #333;
+    color: white;
+}
